@@ -1,3 +1,8 @@
+# Residential Assistant
+- Hang up posters
+
+***
+
 # ENGR 2541 - Mechanics of Materials
 - Weekly reading questions
 - Weekly homework
