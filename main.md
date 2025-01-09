@@ -32,6 +32,7 @@
 - Change colors of markdown plugin nvim
 - Make hardware a system config option
 - Fix SDDM on desktop monitor
+- Fix Waybar on desktop monitor
 
 ***
 
