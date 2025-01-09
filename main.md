@@ -13,7 +13,6 @@
 
 # ENEE 2012 - Circuits I
   - Make a reference in notes for circuit components
-  - clarifying Q1 on hw
 
 ***
 
