@@ -4,8 +4,11 @@
 ***
 
 # ENGR 2541 - Mechanics of Materials
+## TODO
 - Weekly reading questions
 - Weekly homework
+## Questions
+- What is "Normal" stress
 
 ***
 
