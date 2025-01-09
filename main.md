@@ -30,6 +30,8 @@
 - Message Callie back
 - Change delay of whichkey for spelling corrections
 - Change colors of markdown plugin nvim
+- Make hardware a system config option
+- Fix SDDM on desktop monitor
 
 ***
 
