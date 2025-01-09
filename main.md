@@ -1,24 +1,37 @@
-### ENGR 2541
-- Get engineering paper
-- Weekly reading
+# ENGR 2541 - Mechanics of Materials
+- Weekly reading questions
 - Weekly homework
-- Clarify example with piza with bending vs axial force magnitude
-- Get notation for force and diameter set
 
 ***
 
-### ENEE 2012
+# ENEE 2012 - Circuits I
 - Make a reference in notes for circuit components
 - clarifying Q1 on hw
 
 ***
 
-### Other Todo
-- (Hyprland) Open teams and slack along with beeper
-- Input Office hours
-- Message Callie back
+# ENGR 1572 - Applied MATLAB Programming
 
 ***
 
-### Other
+# ENGR 1911 - Introduction to CAD
+- Get Solidworks working
+
+***
+
+# MATH 2070
+- Get a general understanding of what a differential equation is
+
+***
+
+# Other Todo
+- (Hyprland) Open teams and slack along with beeper
+- Input Office hours
+- Message Callie back
+- Change delay of whichkey for spelling corrections
+- Change colors of markdown plugin nvim
+
+***
+
+# Other
 - RA Question: Are you more of a talker or listener?
