@@ -1,10 +1,3 @@
-# Residential Assistant
-  - Hang up posters
-  ben cannon
-  will frith
-
-***
-
 # ENGR 2541 - Mechanics of Materials
 ## TODO
   - Weekly reading questions
@@ -40,6 +33,15 @@
   - Make hardware a system config option
   - Fix SDDM on desktop monitor
   - Fix Waybar on desktop monitor
+
+***
+
+# Residential Assistant
+  - Hang up posters
+  ben cannon
+  will frith
+## Resident Connections
+  [x] Evan
 
 ***
 
