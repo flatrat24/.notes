@@ -1,10 +1,5 @@
 # Residential Assistant
   - Hang up posters
-## Floor Meeting
-  - trash can in bathroom
-  - noise
-  - shoes
-  - projector screen
 
 ***
 
