@@ -32,6 +32,7 @@
   will frith
 ## Resident Connections
   [x] Evan
+  [x] Chino
 
 ***
 
