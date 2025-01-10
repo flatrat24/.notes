@@ -42,6 +42,7 @@
   - Make hardware a system config option
   - Fix SDDM on desktop monitor
   - Fix Waybar on desktop monitor
+  - Improve equation environment snippet
 
 ***
 
