@@ -29,6 +29,7 @@
 
 # MATH 2070
   - Get a general understanding of what a differential equation is
+  - Homework 1
 
 ***
 
