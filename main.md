@@ -8,7 +8,6 @@
 
 # ENEE 2012 - Circuits I
   - Make a reference in notes for circuit components
-  - Resubmit hw 1
 
 ***
 
