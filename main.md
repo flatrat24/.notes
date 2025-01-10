@@ -1,6 +1,7 @@
 # Residential Assistant
   - Hang up posters
   ben cannon
+  will frith
 
 ***
 
