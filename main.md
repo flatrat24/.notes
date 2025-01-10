@@ -26,6 +26,15 @@
 
 ***
 
+# Residential Assistant
+  - Hang up posters
+  ben cannon
+  will frith
+## Resident Connections
+  [x] Evan
+
+***
+
 # Other Todo
   - (Hyprland) Open teams and slack along with beeper
   - Change delay of whichkey for spelling corrections
