@@ -55,7 +55,7 @@
 ## Resident Connections
   [x] Evan
   [x] Chino
-  [x] Thomas Redwing
+  [x] Thomas Redwing III
 
 ***
 
