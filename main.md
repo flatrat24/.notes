@@ -33,6 +33,7 @@
 ## Resident Connections
   [x] Evan
   [x] Chino
+  [x] Thomas Redwing III
 
 ***
 
@@ -45,17 +46,6 @@
   - Fix Waybar on desktop monitor
   - Improve equation environment snippet
   - Get git keybinds straight for nvim
-
-***
-
-# Residential Assistant
-  - Hang up posters
-  ben cannon
-  will frith
-## Resident Connections
-  [x] Evan
-  [x] Chino
-  [x] Thomas Redwing III
 
 ***
 
