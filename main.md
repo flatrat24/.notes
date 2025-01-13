@@ -27,7 +27,8 @@
 ***
 
 # Residential Assistant
-  - Hang up posters
+  - Finish Bulletin Board
+  - SRR training report (in email)
   ben cannon
   will frith
 ## Resident Connections
