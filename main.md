@@ -10,6 +10,7 @@
 # ENEE 2012 - Circuits I
   - Make a reference in notes for circuit components
   - HW 2
+  - Lab 2
 
 ***
 
