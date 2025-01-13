@@ -42,7 +42,6 @@
 ***
 
 # Other Todo
-  - (Hyprland) Open teams and slack along with beeper
   - Change delay of whichkey for spelling corrections
   - Change colors of markdown plugin nvim
   - Make hardware a system config option
