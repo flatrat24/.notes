@@ -1,6 +1,7 @@
 # ENGR 2541 - Mechanics of Materials
 ## TODO
-  - Weekly reading questions
+  - Reading 2
+  - HW 2
 ## Questions
   - What is "Normal" stress
 
