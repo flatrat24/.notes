@@ -1,6 +1,7 @@
 # APO
   - Resume Day
   - Plan joannes no-sew day
+  - Habitat for humanity
 
 # ENGR 2541 - Mechanics of Materials
 ## TODO
