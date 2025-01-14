@@ -20,13 +20,11 @@
 ***
 
 # ENGR 1572 - Applied MATLAB Programming
-  - HW 1
 
 ***
 
 # ENGR 1911 - Introduction to CAD
-  - Get Solidworks working
-
+  - Get started on Solidworks
 ***
 
 # MATH 2070
@@ -44,6 +42,7 @@
   [x] Evan
   [x] Chino
   [x] Thomas Redwing III
+  [x] Thomas Redwing III's engineering friend
 
 ***
 
