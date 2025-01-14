@@ -1,3 +1,7 @@
+# APO
+  - Resume Day
+  - Plan joannes no-sew day
+
 # ENGR 2541 - Mechanics of Materials
 ## TODO
   - Reading 2
