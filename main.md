@@ -36,8 +36,6 @@
 # Residential Assistant
   - Finish Bulletin Board
   - SRR training report (in email)
-## Resident Connections
-  [x] Thomas Redwing III's engineering friend
 
 ***
 
