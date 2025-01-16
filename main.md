@@ -36,12 +36,9 @@
 # Residential Assistant
   - Finish Bulletin Board
   - SRR training report (in email)
-  ben cannon
-  will frith
 ## Resident Connections
   [x] Evan
   [x] Chino
-  [x] Thomas Redwing III
   [x] Thomas Redwing III's engineering friend
 
 ***
