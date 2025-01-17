@@ -3,12 +3,8 @@
   - Plan joannes no-sew day
   - Habitat for humanity
 
-# ENGR 2541 - Mechanics of Materials
+# ENME 2541 - Mechanics of Materials
 ## TODO
-  - Reading 2
-  - HW 2
-## Questions
-  - What is "Normal" stress
 
 ***
 
@@ -34,7 +30,6 @@
 ***
 
 # Residential Assistant
-  - Finish Bulletin Board
   - SRR training report (in email)
 
 ***
