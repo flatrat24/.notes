@@ -5,7 +5,6 @@
   - HW 3
   - Lab 2
 ## ENGR 1572 - Applied MATLAB Programming
-  - HW 2
 ## ENGR 1911 - Introduction to CAD
 ## MATH 2070
 
