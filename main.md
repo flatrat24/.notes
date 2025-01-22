@@ -13,7 +13,8 @@
   - Plan joannes no-sew day
 
 # Residential Assistant
-  - SRR training report (in email)
+  - Resubmit practice IR form
+  - Plan floor social
 
 ***
 
