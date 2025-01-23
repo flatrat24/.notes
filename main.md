@@ -1,5 +1,7 @@
 # Academic Assignments
 ## ENME 2541 - Mechanics of Materials
+  - Reading 3
+  - HW 3
 ## ENEE 2012 - Circuits I
   - Review lectures with notes
   - HW 3
@@ -14,7 +16,6 @@
 
 # Residential Assistant
   - Resubmit practice IR form
-  - Plan floor social
 
 ***
 
