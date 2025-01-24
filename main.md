@@ -4,11 +4,12 @@
   - HW 3
 ## ENEE 2012 - Circuits I
   - Review lectures with notes
-  - HW 3
   - Lab 2
 ## ENGR 1572 - Applied MATLAB Programming
 ## ENGR 1911 - Introduction to CAD
 ## MATH 2070
+  - HW 1
+  - Review for first qxam
 
 # APO
   - Resume Day
