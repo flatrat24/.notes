@@ -1,5 +1,6 @@
 # Week Four
 ## ENME 2541 - Mechanics of Materials
+  - Submit Previous Written Homework (Immediate)
   - Reading Four (Jan 31)
   - Homework Four (Jan 31)
   - Written Homework (Jan 31)
