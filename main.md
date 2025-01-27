@@ -4,8 +4,8 @@
   - Homework Four (Jan 31)
   - Written Homework (Jan 31)
 ## ENEE 2012 - Circuits I
-  - Homework Four
-  - Lab Four
+  - Homework Four (Jan 31)
+  - Lab Four (Feb 4)
 ## ENGR 1572 - Applied MATLAB Programming
   - Homework Four
 ## ENGR 1911 - Introduction to CAD
@@ -21,8 +21,8 @@
   - Homework Five (Feb 7)
   - Written Homework (Feb 7)
 ## ENEE 2012 - Circuits I
-  - Homework Five
-  - Lab Five
+  - Homework Five (Feb 7)
+  - Lab Five (Feb 11)
 ## ENGR 1572 - Applied MATLAB Programming
   - Homework Five
 ## ENGR 1911 - Introduction to CAD
@@ -38,8 +38,8 @@
   - Homework Six (Feb 14)
   - Written Homework (Feb 14)
 ## ENEE 2012 - Circuits I
-  - Homework Six
-  - Lab Six
+  - Homework Six (Feb 14)
+  - Lab Six (Feb 18)
 ## ENGR 1572 - Applied MATLAB Programming
   - Homework Six
 ## ENGR 1911 - Introduction to CAD
@@ -55,8 +55,8 @@
   - Homework Seven (Feb 21)
   - Written Homework (Feb 21)
 ## ENEE 2012 - Circuits I
-  - Homework Seven
-  - Lab Seven
+  - Homework Seven (Feb 21)
+  - Lab Seven (Feb 25)
 ## ENGR 1572 - Applied MATLAB Programming
   - Homework Seven
 ## ENGR 1911 - Introduction to CAD
@@ -72,8 +72,8 @@
   - Homework Eight (Feb 28)
   - Written Homework (Feb 28)
 ## ENEE 2012 - Circuits I
-  - Homework Eight
-  - Lab Eight
+  - Homework Eight (Feb 28)
+  - Lab Eight (Mar 4)
 ## ENGR 1572 - Applied MATLAB Programming
   - Homework Eight
 ## ENGR 1911 - Introduction to CAD
@@ -89,8 +89,8 @@
   - Homework Nine (Mar 7)
   - Written Homework (Mar 7)
 ## ENEE 2012 - Circuits I
-  - Homework Nine
-  - Lab Nine
+  - Homework Nine (Mar 7)
+  - Lab Nine (Mar 11)
 ## ENGR 1572 - Applied MATLAB Programming
   - Homework Nine
 ## ENGR 1911 - Introduction to CAD
@@ -105,8 +105,8 @@
   - Reading Ten (Mar 12)
   - Homework Ten (Mar 12)
 ## ENEE 2012 - Circuits I
-  - Homework Ten
-  - Lab Ten
+  - Homework Ten (Mar 12)
+  - Lab Ten (Mar 18)
 ## ENGR 1572 - Applied MATLAB Programming
   - Homework Ten
 ## ENGR 1911 - Introduction to CAD
