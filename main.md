@@ -3,6 +3,7 @@
   - Reading Four (Jan 31)
   - Homework Four (Jan 31)
   - Written Homework (Jan 31)
+  - Axial Stress Portfolio (Feb 7)
 ## ENEE 2012 - Circuits I
   - Homework Four (Jan 31)
   - Lab Four (Feb 4)
