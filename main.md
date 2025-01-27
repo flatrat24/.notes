@@ -15,6 +15,7 @@
   - Check for Homework
 ## Other
   - Fill out resident connections
+  - Get Robin a gift and a card
 ***
 
 # Week Five
