@@ -7,7 +7,7 @@
   - Homework Four (Jan 31)
   - Lab Four (Feb 4)
 ## ENGR 1572 - Applied MATLAB Programming
-  - Homework Four
+  - Homework Four (Feb 3)
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
@@ -24,7 +24,7 @@
   - Homework Five (Feb 7)
   - Lab Five (Feb 11)
 ## ENGR 1572 - Applied MATLAB Programming
-  - Homework Five
+  - Homework Five (Feb 10)
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
@@ -41,7 +41,7 @@
   - Homework Six (Feb 14)
   - Lab Six (Feb 18)
 ## ENGR 1572 - Applied MATLAB Programming
-  - Homework Six
+  - Homework Six (Feb 17)
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
@@ -58,7 +58,7 @@
   - Homework Seven (Feb 21)
   - Lab Seven (Feb 25)
 ## ENGR 1572 - Applied MATLAB Programming
-  - Homework Seven
+  - Homework Seven (Feb 24)
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
@@ -75,7 +75,7 @@
   - Homework Eight (Feb 28)
   - Lab Eight (Mar 4)
 ## ENGR 1572 - Applied MATLAB Programming
-  - Homework Eight
+  - Homework Eight (Mar 3)
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
@@ -92,7 +92,7 @@
   - Homework Nine (Mar 7)
   - Lab Nine (Mar 11)
 ## ENGR 1572 - Applied MATLAB Programming
-  - Homework Nine
+  - Homework Nine (Mar 10)
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
@@ -108,7 +108,7 @@
   - Homework Ten (Mar 12)
   - Lab Ten (Mar 18)
 ## ENGR 1572 - Applied MATLAB Programming
-  - Homework Ten
+  - Homework Ten (Mar 17)
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
