@@ -11,6 +11,7 @@
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
+  - Makeup Homework 1 and make sure it makes sense
   - Check for Homework
 ## Other
 
