@@ -14,7 +14,7 @@
   - Makeup Homework 1 and make sure it makes sense
   - Check for Homework
 ## Other
-
+  - Fill out resident connections
 ***
 
 # Week Five
