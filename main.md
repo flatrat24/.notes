@@ -12,6 +12,7 @@
   - Design a part
 ## MATH 2070
   - Check for Homework
+## Other
 
 ***
 
