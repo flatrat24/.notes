@@ -18,6 +18,7 @@
 ## Other
   - Fill out resident connections
   - Get Robin a gift and a card
+  - dusc@du.edu on behalf of APO
 ***
 
 # Week Five
