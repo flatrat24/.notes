@@ -8,6 +8,7 @@
 ## ENEE 2012 - Circuits I
   - Homework Four (Jan 31)
   - Lab Four (Feb 4)
+    - Measurement Calculations
     - Error Analysis
     - Conclusion
 ## ENGR 1572 - Applied MATLAB Programming
@@ -15,13 +16,13 @@
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Makeup Homework 1 and make sure it makes sense
-  - Check for Homework
+  - Makeup Homework 1 (Jan 29)
+  - Makeup Homework 2 (Jan 29)
+  - Homework 3 (Jan 30)
 ## Other
-  - Fill out resident connections
   - Get Robin a gift and a card
   - dusc@du.edu on behalf of APO
-  - Message about room cleaning for RA
+
 ***
 
 # Week Five
@@ -37,7 +38,7 @@
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Check for Homework
+  - Check for Homework (Feb 6)
 
 ***
 
@@ -54,7 +55,7 @@
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Check for Homework
+  - Check for Homework (Feb 13)
 
 ***
 
@@ -71,7 +72,7 @@
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Check for Homework
+  - Check for Homework (Feb 20)
 
 ***
 
@@ -88,7 +89,7 @@
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Check for Homework
+  - Check for Homework (Feb 27)
 
 ***
 
@@ -105,7 +106,7 @@
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Check for Homework
+  - Check for Homework (Mar 6)
 
 ***
 
@@ -121,7 +122,7 @@
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Check for Homework
+  - Check for Homework (Mar 11)
 
 ***
 
