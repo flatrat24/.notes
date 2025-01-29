@@ -8,6 +8,8 @@
 ## ENEE 2012 - Circuits I
   - Homework Four (Jan 31)
   - Lab Four (Feb 4)
+    - Error Analysis
+    - Conclusion
 ## ENGR 1572 - Applied MATLAB Programming
   - Homework Four (Feb 3)
 ## ENGR 1911 - Introduction to CAD
