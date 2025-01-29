@@ -12,7 +12,6 @@
     - Error Analysis
     - Conclusion
 ## ENGR 1572 - Applied MATLAB Programming
-  - Homework Four (Feb 3)
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
