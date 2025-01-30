@@ -14,8 +14,6 @@
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Makeup Homework 1 (Jan 29)
-  - Makeup Homework 2 (Jan 29)
   - Homework 3 (Jan 30)
 ## Other
   - Get Robin a gift and a card
