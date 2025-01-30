@@ -16,7 +16,6 @@
 ## MATH 2070
   - Homework 3 (Jan 30)
 ## Other
-  - Get Robin a gift and a card
   - Get code for bin in CCOM
   - Pizza order for floor social
   - dusc@du.edu on behalf of APO
