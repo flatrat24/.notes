@@ -17,6 +17,7 @@
   - Homework 3 (Jan 30)
 ## Other
   - Get code for bin in CCOM
+  - Respond to alex stevens
   - Pizza order for floor social
   - dusc@du.edu on behalf of APO
 
