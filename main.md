@@ -5,11 +5,6 @@
   - Written Homework (Jan 31)
   - Axial Stress Portfolio (Feb 7)
 ## ENEE 2012 - Circuits I
-  - Homework Four (Jan 31)
-  - Lab Four (Feb 4)
-    - Measurement Calculations
-    - Error Analysis
-    - Conclusion
 ## ENGR 1572 - Applied MATLAB Programming
 ## ENGR 1911 - Introduction to CAD
   - Design a part
