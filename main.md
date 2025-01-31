@@ -16,6 +16,7 @@
   - Respond to alex stevens
   - Pizza order for floor social
   - dusc@du.edu on behalf of APO
+  - First generation white boy
 
 ***
 
