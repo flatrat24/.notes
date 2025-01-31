@@ -9,7 +9,6 @@
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Homework 3 (Jan 30)
 ## Other
   - Get code for bin in CCOM
   - Do my taxes
