@@ -1,9 +1,7 @@
 # Week Four
 ## ENME 2541 - Mechanics of Materials
-  - Submit Previous Written Homework (Jan 31)
-  - Homework Four (Jan 31)
-  - Written Homework (Jan 31)
   - Axial Stress Portfolio (Feb 7)
+  - Study for test on monday
 ## ENEE 2012 - Circuits I
 ## ENGR 1572 - Applied MATLAB Programming
 ## ENGR 1911 - Introduction to CAD
