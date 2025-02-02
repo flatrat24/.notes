@@ -11,7 +11,6 @@
   - Get code for bin in CCOM
   - Do my taxes
   - Respond to alex stevens
-  - Pizza order for floor social
   - dusc@du.edu on behalf of APO
   - First generation white boy
 
