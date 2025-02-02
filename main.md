@@ -1,3 +1,11 @@
+# Today
+  - Axial Stress Portfolio for MoM
+  - Take a look into second chance club
+  - Study for MoM Test
+  - Do Homework Four for circuit to study
+
+***
+
 # Week Four
 ## ENME 2541 - Mechanics of Materials
   - Axial Stress Portfolio (Feb 7)
@@ -12,7 +20,6 @@
   - Do my taxes
   - Respond to alex stevens
   - dusc@du.edu on behalf of APO
-  - First generation white boy
 
 ***
 
@@ -29,7 +36,7 @@
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Check for Homework (Feb 6)
+  - Homework Five (Feb 6)
 
 ***
 
@@ -46,7 +53,7 @@
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Check for Homework (Feb 13)
+  - Homework Six (Feb 13)
 
 ***
 
@@ -63,7 +70,7 @@
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Check for Homework (Feb 20)
+  - Homework Seven (Feb 20)
 
 ***
 
@@ -80,7 +87,7 @@
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Check for Homework (Feb 27)
+  - Homework Eight (Feb 27)
 
 ***
 
@@ -97,7 +104,7 @@
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Check for Homework (Mar 6)
+  - Homework Nine (Mar 6)
 
 ***
 
@@ -113,7 +120,7 @@
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Check for Homework (Mar 11)
+  - Homework Ten (Mar 11)
 
 ***
 
