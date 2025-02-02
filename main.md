@@ -1,6 +1,5 @@
 # Today
   - Axial Stress Portfolio for MoM
-  - Submit summary of floor social
   - Take a look into second chance club
   - Study for MoM Test
   - Do Homework Four for circuit to study
