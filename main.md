@@ -1,3 +1,5 @@
+What is voltage divider?
+
 # Today
   - Take a look into second chance club
   - Study for MoM Test
