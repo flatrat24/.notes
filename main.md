@@ -5,23 +5,6 @@
 
 ***
 
-# Week Four
-## ENME 2541 - Mechanics of Materials
-  - Axial Stress Portfolio (Feb 7)
-  - Study for test on monday
-## ENEE 2012 - Circuits I
-## ENGR 1572 - Applied MATLAB Programming
-## ENGR 1911 - Introduction to CAD
-  - Design a part
-## MATH 2070
-## Other
-  - Get code for bin in CCOM
-  - Do my taxes
-  - Respond to alex stevens
-  - dusc@du.edu on behalf of APO
-
-***
-
 # Week Five
 ## ENME 2541 - Mechanics of Materials
   - Reading Five (Feb 7)
@@ -36,6 +19,11 @@
   - Design a part
 ## MATH 2070
   - Homework Five (Feb 6)
+## Other
+  - Get code for bin in CCOM
+  - Do my taxes
+  - Respond to alex stevens
+  - dusc@du.edu on behalf of APO
 
 ***
 
