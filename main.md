@@ -1,7 +1,5 @@
 # Today
   - Take a look into second chance club
-  - Study for MoM Test
-  - Do Homework Four for circuit to study
   - Submit work order for paper towel dispense
   - Input outreach attempts
 
