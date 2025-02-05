@@ -1,6 +1,5 @@
 # Today
   - Take a look into second chance club
-  - Submit work order for paper towel dispense
   - Input outreach attempts
 
 ***
@@ -23,7 +22,6 @@
   - Get code for bin in CCOM
   - Do my taxes
   - Respond to alex stevens
-  - dusc@du.edu on behalf of APO
 
 ***
 
