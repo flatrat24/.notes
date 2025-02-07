@@ -8,16 +8,13 @@
 
 # Week Five
 ## ENME 2541 - Mechanics of Materials
-  - Reading Five (Feb 7)
   - Homework Five (Feb 7)
   - Written Homework (Feb 7)
 ## ENEE 2012 - Circuits I
-  - Homework Five (Feb 7)
 ## ENGR 1572 - Applied MATLAB Programming
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Homework Five (Feb 6)
 ## Other
   - Get code for bin in CCOM
   - Do my taxes
