@@ -2,6 +2,7 @@
   - Take a look into second chance club
   - Input outreach attempts
   - Achieve parity between accudemia and personal calendar
+  - Install mathematica
 
 
 ***
