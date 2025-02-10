@@ -3,20 +3,6 @@
   - Input outreach attempts
   - Install mathematica
   - Schedule Luke Pettigrew
-
-
-***
-
-# Week Five
-## ENME 2541 - Mechanics of Materials
-  - Homework Five (Feb 7)
-  - Written Homework (Feb 7)
-## ENEE 2012 - Circuits I
-## ENGR 1572 - Applied MATLAB Programming
-## ENGR 1911 - Introduction to CAD
-  - Design a part
-## MATH 2070
-## Other
   - Get code for bin in CCOM
   - Do my taxes
   - Respond to alex stevens
@@ -30,7 +16,6 @@
   - Written Homework (Feb 14)
 ## ENEE 2012 - Circuits I
   - Homework Six (Feb 14)
-  - Lab Six (Feb 18)
 ## ENGR 1572 - Applied MATLAB Programming
   - Homework Six (Feb 17)
 ## ENGR 1911 - Introduction to CAD
