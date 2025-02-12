@@ -3,10 +3,8 @@
   - Take a look into second chance club
   - Input outreach attempts
   - Install mathematica
-  - Schedule Luke Pettigrew
   - Get code for bin in CCOM
   - Do my taxes
-  - Respond to alex stevens
 
 ***
 
