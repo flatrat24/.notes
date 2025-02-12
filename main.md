@@ -1,5 +1,7 @@
 # Today
   - Apply for AM and RM
+    - Qualtrics form
+    - PCO Application
   - Take a look into second chance club
   - Install mathematica
   - Get code for bin in CCOM
