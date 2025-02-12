@@ -2,6 +2,7 @@
   - Apply for AM and RM
   - Take a look into second chance club
   - Input outreach attempts
+  - Make lego outreach attempt
   - Install mathematica
   - Get code for bin in CCOM
   - Do my taxes
