@@ -15,7 +15,6 @@
   - Homework Six (Feb 14)
   - Written Homework (Feb 14)
 ## ENEE 2012 - Circuits I
-  - Homework Six (Feb 14)
 ## ENGR 1572 - Applied MATLAB Programming
   - Homework Six (Feb 17)
 ## ENGR 1911 - Introduction to CAD
