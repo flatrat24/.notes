@@ -19,7 +19,6 @@
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Homework Six (Feb 13)
 
 ***
 
