@@ -10,9 +10,6 @@
 
 # Week Six
 ## ENME 2541 - Mechanics of Materials
-  - Reading Six (Feb 14)
-  - Homework Six (Feb 14)
-  - Written Homework (Feb 14)
 ## ENEE 2012 - Circuits I
 ## ENGR 1572 - Applied MATLAB Programming
 ## ENGR 1911 - Introduction to CAD
