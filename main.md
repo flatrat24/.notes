@@ -1,8 +1,5 @@
 # Today
-  - Apply for AM and RM
-    - PCO Application
   - Take a look into second chance club
-  - Install mathematica
   - Get code for bin in CCOM
   - Do my taxes
 
