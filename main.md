@@ -2,6 +2,10 @@
   - Take a look into second chance club
   - Get code for bin in CCOM
   - Do my taxes
+  - Questions to ask Goncalo
+    - How to do problem homework 4.8
+    - How to do problem homework 4.9
+    - Why is 4.5 negative of my answer?
 
 ***
 
