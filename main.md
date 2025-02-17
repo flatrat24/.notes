@@ -3,6 +3,7 @@
   - Get code for bin in CCOM
   - Do my taxes
   - Questions to ask Goncalo
+    - How to make controlled sources in Falstad easily
     - How to do problem homework 4.8
     - How to do problem homework 4.9
     - Why is 4.5 negative of my answer?
