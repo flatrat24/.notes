@@ -4,6 +4,7 @@
   - Do my taxes
   - Questions to ask Fei Qi
     - What happens when sin and cos have different trig coefficients?
+    - Homework 6.2f. What if w_0 = w
   - Questions to ask Goncalo
     - How to make controlled sources in Falstad easily
     - How to do problem homework 4.8
