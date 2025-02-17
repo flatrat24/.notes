@@ -2,6 +2,8 @@
   - Take a look into second chance club
   - Get code for bin in CCOM
   - Do my taxes
+  - Questions to ask Fei Qi
+    - What happens when sin and cos have different trig coefficients?
   - Questions to ask Goncalo
     - How to make controlled sources in Falstad easily
     - How to do problem homework 4.8
