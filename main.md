@@ -5,16 +5,6 @@
 
 ***
 
-# Week Six
-## ENME 2541 - Mechanics of Materials
-## ENEE 2012 - Circuits I
-## ENGR 1572 - Applied MATLAB Programming
-## ENGR 1911 - Introduction to CAD
-  - Design a part
-## MATH 2070
-
-***
-
 # Week Seven
 ## ENME 2541 - Mechanics of Materials
   - Reading Seven (Feb 21)
