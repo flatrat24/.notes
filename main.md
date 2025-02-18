@@ -10,6 +10,7 @@
     - How to do problem homework 4.8
     - How to do problem homework 4.9
     - Why is 4.5 negative of my answer?
+    - Dealing with negatives on homework 6.2
 
 ***
 
