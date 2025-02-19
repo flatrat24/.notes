@@ -9,7 +9,6 @@
     - How to make controlled sources in Falstad easily
     - How to do problem homework 4.8
     - How to do problem homework 4.9
-    - Why is 4.5 negative of my answer?
     - Dealing with negatives on homework 6.2 (currents -> resistances)
     - Is 6.8 a valid source transformation (on the CCVS)
     - Is 6.3 wrong answer
