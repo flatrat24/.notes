@@ -18,7 +18,6 @@
 
 # Week Seven
 ## ENME 2541 - Mechanics of Materials
-  - Reading Seven (Feb 21)
   - Homework Seven (Feb 21)
   - Written Homework (Feb 21)
 ## ENEE 2012 - Circuits I
