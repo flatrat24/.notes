@@ -22,6 +22,7 @@
   - Written Homework (Feb 21)
 ## ENEE 2012 - Circuits I
 ## ENGR 1572 - Applied MATLAB Programming
+  - Homework Seven (Feb 23)
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
