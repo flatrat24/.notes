@@ -5,13 +5,8 @@
   - Questions to ask Fei Qi
     - What happens when sin and cos have different trig coefficients?
     - Homework 6.2f. What if w_0 = w
-  - Questions to ask Goncalo
-    - How to make controlled sources in Falstad easily
-    - How to do problem homework 4.8
-    - How to do problem homework 4.9
-    - Dealing with negatives on homework 6.2 (currents -> resistances)
-    - Is 6.8 a valid source transformation (on the CCVS)
-    - Is 6.3 wrong answer
+  - Questions for Cleary
+    - Why did I have to use (Pr)/(2t) for hw 7.1
 
 ***
 
