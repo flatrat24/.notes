@@ -12,7 +12,6 @@
 
 # Week Seven
 ## ENME 2541 - Mechanics of Materials
-  - Homework Seven (Feb 21)
 ## ENEE 2012 - Circuits I
 ## ENGR 1572 - Applied MATLAB Programming
 ## ENGR 1911 - Introduction to CAD
