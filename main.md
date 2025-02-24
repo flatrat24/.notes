@@ -17,6 +17,9 @@
   - Design a part
 ## MATH 2070
   - Homework Eight (Feb 27)
+  - Second Chance Club
+  - Corrections for previous Homework
+  - Find a way to makeup missed lab
 
 ***
 
