@@ -1,22 +1,5 @@
 # Today
-  - Take a look into second chance club
-  - Get code for bin in CCOM
   - Do my taxes
-  - Questions to ask Fei Qi
-    - What happens when sin and cos have different trig coefficients?
-    - Homework 6.2f. What if w_0 = w
-  - Questions for Cleary
-    - Why did I have to use (Pr)/(2t) for hw 7.1
-
-***
-
-# Week Seven
-## ENME 2541 - Mechanics of Materials
-## ENEE 2012 - Circuits I
-## ENGR 1572 - Applied MATLAB Programming
-## ENGR 1911 - Introduction to CAD
-  - Design a part
-## MATH 2070
 
 ***
 
