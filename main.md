@@ -12,13 +12,10 @@
   - Homework Eight (Feb 28)
   - Lab Eight (Mar 4)
 ## ENGR 1572 - Applied MATLAB Programming
-  - Homework Eight (Mar 3)
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Homework Eight (Feb 27)
   - Second Chance Club
-  - Corrections for previous Homework
   - Find a way to makeup missed lab
 
 ***
