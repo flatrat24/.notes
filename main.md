@@ -5,7 +5,6 @@
 
 # Week Eight
 ## ENME 2541 - Mechanics of Materials
-  - Reading Eight (Feb 28)
   - Homework Eight (Feb 28)
   - Written Homework (Feb 28)
 ## ENEE 2012 - Circuits I
