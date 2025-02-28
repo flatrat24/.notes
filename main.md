@@ -8,7 +8,6 @@
   - Homework Eight (Feb 28)
   - Written Homework (Feb 28)
 ## ENEE 2012 - Circuits I
-  - Homework Eight (Feb 28)
 ## ENGR 1572 - Applied MATLAB Programming
 ## ENGR 1911 - Introduction to CAD
   - Design a part
