@@ -5,15 +5,12 @@
 
 # Week Eight
 ## ENME 2541 - Mechanics of Materials
-  - Homework Eight (Feb 28)
-  - Written Homework (Feb 28)
 ## ENEE 2012 - Circuits I
 ## ENGR 1572 - Applied MATLAB Programming
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
   - Second Chance Club
-  - Find a way to makeup missed lab
 
 ***
 
