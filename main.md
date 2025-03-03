@@ -3,26 +3,18 @@
 
 ***
 
-# Stress Portfolio
-  - Torsion 
-  - Buckling
-
-***
-
 # Week Nine
 ## ENME 2541 - Mechanics of Materials
   - Reading Nine (Mar 7)
   - Homework Nine (Mar 7)
   - Written Homework (Mar 7)
 ## ENEE 2012 - Circuits I
-  - Homework Nine (Mar 7)
   - Lab Nine (Mar 11)
 ## ENGR 1572 - Applied MATLAB Programming
   - Homework Nine (Mar 10)
 ## ENGR 1911 - Introduction to CAD
   - Design a part
 ## MATH 2070
-  - Homework Nine (Mar 6)
 
 ***
 
