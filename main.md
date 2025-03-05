@@ -5,7 +5,6 @@
 
 # Week Nine
 ## ENME 2541 - Mechanics of Materials
-  - Reading Nine (Mar 7)
   - Homework Nine (Mar 7)
   - Written Homework (Mar 7)
 ## ENEE 2012 - Circuits I
