@@ -47,3 +47,4 @@
   - add trig snippets
   - Add a Laplace Transform snippet (\mathcal{L}\left\{\right\}) with choice for inverse
   - Add \Big\vert_{insert \mapsto insert}
+  - Piecewise function
