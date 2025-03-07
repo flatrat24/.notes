@@ -8,10 +8,8 @@
   - Homework Nine (Mar 7)
   - Written Homework (Mar 7)
 ## ENEE 2012 - Circuits I
-  - Lab Nine (Mar 11)
 ## ENGR 1572 - Applied MATLAB Programming
 ## ENGR 1911 - Introduction to CAD
-  - Design a part
 ## MATH 2070
 
 ***
