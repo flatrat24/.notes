@@ -49,3 +49,4 @@
   - Add \Big\vert_{insert \mapsto insert}
   - Piecewise function
   - leq, geq, other inequalities/equalities
+  - \mathcal{} for general letters
