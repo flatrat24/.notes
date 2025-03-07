@@ -44,5 +44,6 @@
 ## Neovim
 ### Snippets
   - add \mapsto as an option for -r
+  - add trig snippets
   - Add a Laplace Transform snippet (\mathcal{L}\left\{\right\}) with choice for inverse
   - Add \Big\vert_{insert \mapsto insert}
