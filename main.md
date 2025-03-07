@@ -50,3 +50,6 @@
   - Piecewise function
   - leq, geq, other inequalities/equalities
   - \mathcal{} for general letters
+  - change draw/node snippets to fit with global styling 
+## LaTeX
+  - Make global styling variables (body, dimension, line, etc.)
