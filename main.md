@@ -44,3 +44,4 @@
 ## Neovim
 ### Snippets
   - add \mapsto as an option for -r
+  - Add a Laplace Transform snippet (\mathcal{L}\left\{\right\}) with choice for inverse
