@@ -52,6 +52,7 @@
   - \mathcal{} for general letters
   - change draw/node snippets to fit with global styling 
   - change (( and )) snippets to be general to any bracket as well as doing both left and right at once: () as the trigger?
+  - fix multiline to multline in equation snippet
 ## LaTeX
   - Make global styling variables (body, dimension, line, etc.)
   - make stealth the default arrow
