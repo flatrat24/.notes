@@ -48,3 +48,4 @@
   - Add a Laplace Transform snippet (\mathcal{L}\left\{\right\}) with choice for inverse
   - Add \Big\vert_{insert \mapsto insert}
   - Piecewise function
+  - leq, geq, other inequalities/equalities
