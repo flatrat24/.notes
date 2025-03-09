@@ -53,7 +53,8 @@
   - change (( and )) snippets to be general to any bracket as well as doing both left and right at once: () as the trigger?
   - fix multiline to multline in equation snippet
 ## Hyprland
-  - Add repeat keybinds for switching windows
+  - Add repeat keybinds for switching window focus
+  - Look into fabric (hyprland fabric exists)
 ## LaTeX
   - Make global styling variables (body, dimension, line, etc.)
   - make stealth the default arrow
