@@ -7,6 +7,7 @@
 ## ENME 2541 - Mechanics of Materials
   - Reading Ten (Mar 12)
   - Homework Ten (Mar 12)
+  - Makeup Previous Handwritten Homework
 ## ENEE 2012 - Circuits I
   - Homework Ten (Mar 12)
   - Lab Ten (Mar 18)
