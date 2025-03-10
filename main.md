@@ -21,16 +21,6 @@
 
 ***
 
-# End of Quarter Assignments
-## ENME 2541 - Mechanics of Materials
-  - Stress Portfolio (Mar 17)
-## ENEE 2012 - Circuits I
-## ENGR 1572 - Applied MATLAB Programming
-## ENGR 1911 - Introduction to CAD
-## MATH 2070
-
-***
-
 # System Changes
 ## Neovim
 ### Snippets
