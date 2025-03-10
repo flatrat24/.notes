@@ -8,8 +8,9 @@
   - Reading Ten (Mar 12)
   - Homework Ten (Mar 12)
   - Makeup Previous Handwritten Homework
+  - Buckling Portfolio Slide
 ## ENEE 2012 - Circuits I
-  - Homework Ten (Mar 12)
+  - Homework Eight (Mar 12)
   - Final Project
 ## ENGR 1572 - Applied MATLAB Programming
   - Homework Ten (Mar 17)
