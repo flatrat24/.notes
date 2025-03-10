@@ -3,16 +3,6 @@
 
 ***
 
-# Week Nine
-## ENME 2541 - Mechanics of Materials
-  - Written Homework (Mar 7)
-## ENEE 2012 - Circuits I
-## ENGR 1572 - Applied MATLAB Programming
-## ENGR 1911 - Introduction to CAD
-## MATH 2070
-
-***
-
 # Week Ten
 ## ENME 2541 - Mechanics of Materials
   - Reading Ten (Mar 12)
