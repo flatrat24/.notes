@@ -10,7 +10,7 @@
   - Makeup Previous Handwritten Homework
 ## ENEE 2012 - Circuits I
   - Homework Ten (Mar 12)
-  - Lab Ten (Mar 18)
+  - Final Project
 ## ENGR 1572 - Applied MATLAB Programming
   - Homework Ten (Mar 17)
 ## ENGR 1911 - Introduction to CAD
