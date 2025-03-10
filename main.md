@@ -44,3 +44,6 @@
 ## LaTeX
   - Make global styling variables (body, dimension, line, etc.)
   - make stealth the default arrow
+## Other
+  - QT Themeing
+  - Fix GTK theming
