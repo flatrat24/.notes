@@ -46,4 +46,4 @@
   - make stealth the default arrow
 ## Other
   - QT Themeing
-  - Fix GTK theming
+  - Fix GTK with wofi theme
