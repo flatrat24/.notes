@@ -22,6 +22,10 @@
 ***
 
 # System Changes
+## Programs
+  - ltspice?
+  - Digital
+  - okular
 ## Neovim
 ### Snippets
   - add \mapsto as an option for -r
