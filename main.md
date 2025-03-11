@@ -5,7 +5,6 @@
 
 # Week Ten
 ## ENME 2541 - Mechanics of Materials
-  - Reading Ten (Mar 12)
   - Homework Ten (Mar 12)
   - Makeup Previous Handwritten Homework
   - Buckling Portfolio Slide
