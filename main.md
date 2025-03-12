@@ -5,8 +5,6 @@
 
 # Week Ten
 ## ENME 2541 - Mechanics of Materials
-  - Homework Ten (Mar 12)
-  - Makeup Previous Handwritten Homework
   - Buckling Portfolio Slide
 ## ENEE 2012 - Circuits I
   - Homework Eight (Mar 12)
