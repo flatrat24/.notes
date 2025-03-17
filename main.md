@@ -34,6 +34,7 @@
   - Add flixbaba to search options
 ## Neovim
 ### Snippets
+  - Fix example snippet to relfect changes to environemnt
   - add \mapsto as an option for -r
   - add trig snippets
   - Add a Laplace Transform snippet (\mathcal{L}\left\{\right\}) with choice for inverse
