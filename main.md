@@ -29,6 +29,7 @@
   - ltspice?
   - Digital
   - okular
+  - replace swayimg
 ## Firefox
   - Add flixbaba to search options
 ## Neovim
