@@ -19,10 +19,18 @@
 ***
 
 # System Changes
+## Things to Consider
+  - Invest heavy into GTK/Gnome apps
+    - Calendar
+    - Geary
+    - Contacts
+    - Web browser?
 ## Programs
   - ltspice?
   - Digital
   - okular
+## Firefox
+  - Add flixbaba to search options
 ## Neovim
 ### Snippets
   - add \mapsto as an option for -r
