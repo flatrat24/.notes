@@ -54,3 +54,4 @@
 ## Other
   - QT Themeing
   - Fix GTK with wofi theme
+  - killall for escreeenshot and color picker
