@@ -38,3 +38,4 @@
   - QT Themeing
   - Fix GTK with wofi theme
   - killall for escreeenshot and color picker
+  - workspace changing encoder knob sat75x
