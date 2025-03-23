@@ -33,6 +33,7 @@
 ## Firefox
   - Add flixbaba to search options
 ## Neovim
+  - ctrl-j/k for up and down movement
 ### Snippets
   - Fix example snippet to relfect changes to environemnt
   - add \mapsto as an option for -r
