@@ -1,23 +1,6 @@
 # Today
   - Do my taxes
 
-***
-
-# Week Ten
-## ENME 2541 - Mechanics of Materials
-  - Buckling Portfolio Slide
-## ENEE 2012 - Circuits I
-  - Homework Eight (Mar 12)
-  - Final Project
-## ENGR 1572 - Applied MATLAB Programming
-  - Homework Ten (Mar 17)
-## ENGR 1911 - Introduction to CAD
-  - Design a part
-## MATH 2070
-  - Homework Ten (Mar 11)
-
-***
-
 # System Changes
 ## Things to Consider
   - Invest heavy into GTK/Gnome apps
@@ -35,7 +18,6 @@
 ## Neovim
   - ctrl-j/k for up and down movement
 ### Snippets
-  - Fix example snippet to relfect changes to environemnt
   - add \mapsto as an option for -r
   - add trig snippets
   - Add a Laplace Transform snippet (\mathcal{L}\left\{\right\}) with choice for inverse
