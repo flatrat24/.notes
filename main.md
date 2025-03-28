@@ -3,9 +3,7 @@
 
 # System Changes
 ## Programs
-  - ltspice?
   - okular
-  - replace swayimg
 ## Firefox
   - Add free movie website to search options
 ## Neovim
