@@ -2,15 +2,8 @@
   - Do my taxes
 
 # System Changes
-## Things to Consider
-  - Invest heavy into GTK/Gnome apps
-    - Calendar
-    - Geary
-    - Contacts
-    - Web browser?
 ## Programs
   - ltspice?
-  - Digital
   - okular
   - replace swayimg
 ## Firefox
