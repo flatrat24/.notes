@@ -1,3 +1,4 @@
+  - Function keys working
   - Send Jackson zip files of classes
   - Laundry
   - email professors about missing class (mom)
