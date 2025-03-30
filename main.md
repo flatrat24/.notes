@@ -1,11 +1,8 @@
-  - Function keys working
   - email professors about missing class (mom)
 
 ---
 
 # System Changes
-## Programs
-  - okular
 ## Firefox
   - Add free movie website to search options
 ## Neovim
