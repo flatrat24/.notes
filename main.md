@@ -14,7 +14,4 @@
   - Make global styling variables (body, dimension, line, etc.)
   - make stealth the default arrow
 ## Other
-  - QT Themeing
-  - Fix GTK with wofi theme
-  - killall for escreeenshot and color picker
   - workspace changing encoder knob sat75x
