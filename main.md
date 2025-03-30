@@ -1,6 +1,3 @@
-# Today
-  - Do my taxes
-
 # System Changes
 ## Programs
   - okular
