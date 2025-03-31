@@ -5,7 +5,7 @@
 
 # Week 1
 ## MATH 2080
-  - HW 1 (Apr 3)
+  - HW 1 (Apr 3 @ 5:00pm)
 
 ---
 
