@@ -1,5 +1,6 @@
 # TODO
   - Bulletin Board (Friday @ 9am)
+  - code formatting in latex for systems
   - Add gpg for systems ssh
   - prepare notes for multivar calc
   - email professors about missing class (mom)
