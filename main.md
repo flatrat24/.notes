@@ -1,4 +1,6 @@
+# TODO
   - email professors about missing class (mom)
+  - Email kendra about apr 17 drop in conflict
 
 ---
 
