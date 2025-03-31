@@ -1,4 +1,5 @@
 # TODO
+  - prepare notes for multivar calc
   - email professors about missing class (mom)
   - Email kendra about apr 17 drop in conflict and skintight retreat
 
