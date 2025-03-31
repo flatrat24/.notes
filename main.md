@@ -1,5 +1,6 @@
 # TODO
   - Bulletin Board (Friday @ 9am)
+  - Add gpg for systems ssh
   - prepare notes for multivar calc
   - email professors about missing class (mom)
   - Email kendra about apr 17 drop in conflict and skintight retreat
