@@ -3,6 +3,10 @@
   - email professors about missing class (mom)
   - Email kendra about apr 17 drop in conflict and skintight retreat
 
+# Week 1
+## MATH 2080
+  - HW 1 (Apr 3)
+
 ---
 
 # System Changes
