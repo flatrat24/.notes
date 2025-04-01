@@ -38,3 +38,19 @@
   - make stealth the default arrow
 ## Other
   - workspace changing encoder knob sat75x
+
+***
+
+# Week Template
+## MATH 2080
+  - HW 1 (Apr 2)
+## COMP 2361
+  - Lab 1 (Apr 9)
+## ENEE 2022
+  - Lab 1 (Apr 8)
+  - HW 1 (Apr 4)
+## ENGR 3100
+  - HW 1 ()
+  - Lab 1 ()
+## MATH 2080
+  - HW 1 (Apr 3)
