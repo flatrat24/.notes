@@ -1,6 +1,5 @@
 # TODO
   - [get framework keys working properly][https://wiki.archlinux.org/title/Framework_Laptop_13#Function_keys]
-  - Bulletin Board (Friday @ 9am)
   - code formatting in latex for systems
   - Add gpg for systems ssh
   - prepare notes for multivar calc
