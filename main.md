@@ -9,7 +9,14 @@
 
 # Week 1
 ## MATH 2080
-  - HW 1 (Apr 3 @ 5:00pm)
+  - HW 1 (Apr 2)
+## COMP 2361
+  - Lab 1 (Apr 9)
+## ENEE 2022
+  - Lab 1 (Apr 8)
+  - HW 1 (Apr 4)
+## ENGR 3100
+## MATH 2080
 
 ---
 
