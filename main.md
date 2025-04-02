@@ -8,15 +8,17 @@
 # Week 1
 ## MATH 2080
   - HW 1 (Apr 2)
+  - Review Notes (Mar 30)
 ## COMP 2361
   - Lab 1 (Apr 9)
 ## ENEE 2022
   - Lab 1 (Apr 8)
   - HW 1 (Apr 4)
+  - Read Chapter 6 (Mar 30)
 ## ENGR 3100
-  - HW 1 ()
-  - Lab 1 ()
-## MATH 2080
+  - HW 1 (Apr 3)
+  - Lab 1 (Apr 8)
+## ENGR 2950
   - HW 1 (Apr 3)
 
 ---
