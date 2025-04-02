@@ -1,5 +1,6 @@
 # TODO
   - finish business cards
+  - movie night planning (movie, snacks, etc)
   - respond to cady
   - email professors about missing class (mom)
 
