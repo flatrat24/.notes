@@ -1,5 +1,4 @@
 # TODO
-  - [get framework keys working properly][https://wiki.archlinux.org/title/Framework_Laptop_13#Function_keys]
   - Add gpg for systems ssh
   - email professors about missing class (mom)
   - Email kendra about apr 17 drop in conflict and skintight retreat
