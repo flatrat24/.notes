@@ -17,7 +17,6 @@
   - Read Chapter 6 (Mar 30)
 ## ENGR 3100
   - HW 1 (Apr 6)
-  - Lab 1 (Apr 6)
   - Project 1 (Apr 6)
 ## ENGR 2950
   - HW 1 (Apr 3)
@@ -36,7 +35,7 @@
   - Read Chapter 6 (Mar 30)
 ## ENGR 3200
   - HW 2 (Apr 6)
-  - Lab 2 (Apr 6)
+  - Lab 1 (Apr 6)
   - Project 2 (Apr 6)
 ## ENGR 2950
   - HW 2 (Apr 3)
@@ -55,7 +54,7 @@
   - Read Chapter 6 (Mar 30)
 ## ENGR 3100
   - HW 3 (Apr 6)
-  - Lab 3 (Apr 6)
+  - Lab 2 (Apr 6)
   - Project 3 (Apr 6)
 ## ENGR 2950
   - HW 3 (Apr 3)
@@ -74,7 +73,7 @@
   - Read Chapter 6 (Mar 30)
 ## ENGR 3100
   - HW 4 (Apr 6)
-  - Lab 4 (Apr 6)
+  - Lab 3 (Apr 6)
   - Project 4 (Apr 6)
 ## ENGR 2950
   - HW 4 (Apr 3)
@@ -93,7 +92,7 @@
   - Read Chapter 6 (Mar 30)
 ## ENGR 3100
   - HW 5 (Apr 6)
-  - Lab 5 (Apr 6)
+  - Lab 4 (Apr 6)
   - Project 5 (Apr 6)
 ## ENGR 2950
   - HW 5 (Apr 3)
@@ -112,7 +111,7 @@
   - Read Chapter 6 (Mar 30)
 ## ENGR 3100
   - HW 6 (Apr 6)
-  - Lab 6 (Apr 6)
+  - Lab 5 (Apr 6)
   - Project 6 (Apr 6)
 ## ENGR 2950
   - HW 6 (Apr 3)
@@ -131,7 +130,7 @@
   - Read Chapter 6 (Mar 30)
 ## ENGR 3100
   - HW 7 (Apr 6)
-  - Lab 7 (Apr 6)
+  - Lab 6 (Apr 6)
   - Project 7 (Apr 6)
 ## ENGR 2950
   - HW 7 (Apr 3)
@@ -150,7 +149,7 @@
   - Read Chapter 6 (Mar 30)
 ## ENGR 3100
   - HW 8 (Apr 6)
-  - Lab 8 (Apr 6)
+  - Lab 7 (Apr 6)
   - Project 8 (Apr 6)
 ## ENGR 2950
   - HW 8 (Apr 3)
@@ -169,7 +168,7 @@
   - Read Chapter 6 (Mar 30)
 ## ENGR 3100
   - HW 9 (Apr 6)
-  - Lab 9 (Apr 6)
+  - Lab 8 (Apr 6)
   - Project 9 (Apr 6)
 ## ENGR 2950
   - HW 9 (Apr 3)
@@ -188,7 +187,6 @@
   - Read Chapter 6 (Mar 30)
 ## ENGR 3100
   - HW 10 (Apr 6)
-  - Lab 10 (Apr 6)
   - Project 10 (Apr 6)
 ## ENGR 2950
   - HW 10 (Apr 3)
