@@ -1,4 +1,5 @@
 # TODO
+  - finish business cards
   - email professors about missing class (mom)
 
 ***
