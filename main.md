@@ -1,4 +1,9 @@
-P - Apr 11
+P - May 9
+S - May 10
+
+CANNOT UNDER NO CIRCUMSTANCES
+May 16, 17, 18 - Skintight Retreat
+May 23 - Late Night
 
 # TODO
   - finish business cards
