@@ -1,5 +1,6 @@
 # TODO
   - finish business cards
+  - respond to cady
   - email professors about missing class (mom)
 
 ***
