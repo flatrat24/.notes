@@ -8,7 +8,6 @@
 
 # Week 1
 ## MATH 2080
-  - HW 1 (Apr 2)
   - Review Notes (Mar 30)
 ## COMP 2361
   - Lab 1 (Apr 9)
