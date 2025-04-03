@@ -1,5 +1,4 @@
 # TODO
-  - finish business cards
   - install LTspice
   - movie night planning (movie, snacks, etc)
   - email professors about missing class (mom)
