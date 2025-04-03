@@ -32,7 +32,7 @@
 ## ENEE 2022
   - Lab 2 (Apr 8)
   - HW 2 (Apr 4)
-  - Read Chapter 6 (Mar 30)
+  - Read Chapter 7 (Mar 30)
 ## ENGR 3200
   - HW 2 (Apr 6)
   - Lab 1 (Apr 6)
@@ -51,7 +51,7 @@
 ## ENEE 2022
   - Lab 3 (Apr 8)
   - HW 3 (Apr 4)
-  - Read Chapter 6 (Mar 30)
+  - Read Chapter 8 (Mar 30)
 ## ENGR 3100
   - HW 3 (Apr 6)
   - Lab 2 (Apr 6)
@@ -70,7 +70,7 @@
 ## ENEE 2022
   - Lab 4 (Apr 8)
   - HW 4 (Apr 4)
-  - Read Chapter 6 (Mar 30)
+  - Read Chapter 15 (Mar 30)
 ## ENGR 3100
   - HW 4 (Apr 6)
   - Lab 3 (Apr 6)
@@ -89,7 +89,7 @@
 ## ENEE 2022
   - Lab 5 (Apr 8)
   - HW 5 (Apr 4)
-  - Read Chapter 6 (Mar 30)
+  - Read Chapter 16 (Mar 30)
 ## ENGR 3100
   - HW 5 (Apr 6)
   - Lab 4 (Apr 6)
@@ -108,7 +108,6 @@
 ## ENEE 2022
   - Lab 6 (Apr 8)
   - HW 6 (Apr 4)
-  - Read Chapter 6 (Mar 30)
 ## ENGR 3100
   - HW 6 (Apr 6)
   - Lab 5 (Apr 6)
@@ -127,7 +126,7 @@
 ## ENEE 2022
   - Lab 7 (Apr 8)
   - HW 7 (Apr 4)
-  - Read Chapter 6 (Mar 30)
+  - Read Chapter 9/10 (Mar 30)
 ## ENGR 3100
   - HW 7 (Apr 6)
   - Lab 6 (Apr 6)
@@ -146,7 +145,7 @@
 ## ENEE 2022
   - Lab 8 (Apr 8)
   - HW 8 (Apr 4)
-  - Read Chapter 6 (Mar 30)
+  - Read Chapter 17 (Mar 30)
 ## ENGR 3100
   - HW 8 (Apr 6)
   - Lab 7 (Apr 6)
@@ -165,7 +164,7 @@
 ## ENEE 2022
   - Lab 9 (Apr 8)
   - HW 9 (Apr 4)
-  - Read Chapter 6 (Mar 30)
+  - Read Chapter 18 (Mar 30)
 ## ENGR 3100
   - HW 9 (Apr 6)
   - Lab 8 (Apr 6)
@@ -184,7 +183,7 @@
 ## ENEE 2022
   - Lab 10 (Apr 8)
   - HW 10 (Apr 4)
-  - Read Chapter 6 (Mar 30)
+  - Read Chapter 14 (Mar 30)
 ## ENGR 3100
   - HW 10 (Apr 6)
   - Project 10 (Apr 6)
