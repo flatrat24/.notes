@@ -16,10 +16,7 @@
   - HW 1 (Apr 4)
   - Read Chapter 6 (Mar 30)
 ## ENGR 3100
-  - HW 1 (Apr 6)
-  - Project 1 (Apr 6)
 ## ENGR 2950
-  - HW 1 (Apr 3)
 
 ***
 
