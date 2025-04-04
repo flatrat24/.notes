@@ -12,8 +12,6 @@
   - Lab 1 (Apr 8)
   - HW 1 (Apr 4)
   - Read Chapter 6 (Mar 30)
-## ENGR 3100
-## ENGR 2950
 
 ***
 
