@@ -10,8 +10,6 @@
   - Lab 1 (Apr 9)
 ## ENEE 2022
   - Lab 1 (Apr 8)
-  - HW 1 (Apr 4)
-  - Read Chapter 6 (Mar 30)
 
 ***
 
