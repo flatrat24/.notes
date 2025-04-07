@@ -1,5 +1,6 @@
 # TODO
   - movie night planning (movie, snacks, etc)
+  - code folding for nvim
   - IR for thursday night
   - find total for amazon from floor meeting
 
