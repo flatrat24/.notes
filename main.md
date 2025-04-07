@@ -1,6 +1,7 @@
 # TODO
   - movie night planning (movie, snacks, etc)
   - IR for thursday night
+  - find total for amazon from floor meeting
 
 ***
 
