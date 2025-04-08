@@ -1,5 +1,6 @@
 # TODO
   - movie night planning (movie, snacks, etc)
+  - email paul
   - ccevents@du.edu
   - book hotels through DU
   - Planning for blankets on tuesday
