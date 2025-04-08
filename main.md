@@ -3,6 +3,7 @@
   - ccevents@du.edu
   - book hotels through DU
   - Planning for blankets on tuesday
+  - possible creek cleaning on apr 22
   - code folding for nvim
   - IR for thursday night
   - find total for amazon from floor meeting
