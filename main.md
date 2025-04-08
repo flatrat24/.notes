@@ -2,6 +2,7 @@
   - movie night planning (movie, snacks, etc)
   - ccevents@du.edu
   - book hotels through DU
+  - Planning for blankets on tuesday
   - code folding for nvim
   - IR for thursday night
   - find total for amazon from floor meeting
