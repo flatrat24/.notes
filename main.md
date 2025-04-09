@@ -11,16 +11,6 @@
 
 ***
 
-# Week 1
-## MATH 2080
-  - Review Notes (Mar 30)
-## COMP 2361
-  - Lab 1 (Apr 9)
-## ENEE 2022
-  - Lab 1 (Apr 8)
-
-***
-
 # Week 2
 ## MATH 2080
   - HW 2 (Apr 2)
