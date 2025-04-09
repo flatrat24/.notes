@@ -1,6 +1,5 @@
 # TODO
   - movie night planning (movie, snacks, etc)
-  - ccevents@du.edu
   - book hotels through DU
   - Planning for blankets on tuesday
   - possible creek cleaning on apr 22
