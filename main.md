@@ -8,7 +8,6 @@
 
 # Week 2
 ## MATH 2080
-  - HW 2 (Apr 2)
   - Advanced HW Problem 1 (Apr 18)
   - Review Notes (Mar 30)
 ## COMP 2361
