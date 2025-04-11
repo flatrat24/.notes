@@ -8,20 +8,13 @@
 
 # Week 2
 ## MATH 2080
-  - Advanced HW Problem 1 (Apr 18)
   - Review Notes (Mar 30)
 ## COMP 2361
-  - Lab 2 (Apr 9)
 ## ENEE 2022
-  - Lab 2 (Apr 8)
-  - HW 2 (Apr 4)
   - Read Chapter 7 (Mar 30)
 ## ENGR 3200
-  - HW 2 (Apr 6)
-  - Lab 1 (Apr 6)
   - Project 2 (Apr 6)
 ## ENGR 2950
-  - HW 2 (Apr 3)
 
 ***
 
