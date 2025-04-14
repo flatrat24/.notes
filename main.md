@@ -11,8 +11,9 @@
   - HW 3 (Apr 2)
   - Review Notes (Mar 30)
 ## COMP 2361
-  - Lab 3 (Apr 9)
-  - Project 1 (Apr 9)
+  - Lab 3
+  - Project 1
+  - C++ Video
 ## ENEE 2022
   - Lab 3 (Apr 8)
   - HW 3 (Apr 4)
