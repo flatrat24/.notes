@@ -6,18 +6,6 @@
 
 ***
 
-# Week 2
-## MATH 2080
-  - Review Notes (Mar 30)
-## COMP 2361
-## ENEE 2022
-  - Read Chapter 7 (Mar 30)
-## ENGR 3200
-  - Project 2 (Apr 6)
-## ENGR 2950
-
-***
-
 # Week 3
 ## MATH 2080
   - HW 3 (Apr 2)
