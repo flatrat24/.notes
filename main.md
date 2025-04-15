@@ -8,7 +8,6 @@
 
 # Week 3
 ## MATH 2080
-  - HW 3 (Apr 2)
   - Review Notes (Mar 30)
 ## COMP 2361
   - Lab 3
