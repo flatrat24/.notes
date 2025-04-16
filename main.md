@@ -13,7 +13,6 @@
   - Project 1
   - C++ Video
 ## ENEE 2022
-  - Lab 3 (Apr 8)
   - HW 3 (Apr 4)
   - Read Chapter 8 (Mar 30)
 ## ENGR 3100
