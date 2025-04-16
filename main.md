@@ -2,7 +2,6 @@
   - movie night planning (movie, snacks, etc)
   - Planning for blankets on tuesday
   - possible creek cleaning on apr 22
-  - code folding for nvim
 
 ***
 
@@ -18,11 +17,8 @@
   - HW 3 (Apr 4)
   - Read Chapter 8 (Mar 30)
 ## ENGR 3100
-  - HW 3 (Apr 6)
-  - Lab 2 (Apr 6)
   - Project 3 (Apr 6)
 ## ENGR 2950
-  - HW 3 (Apr 3)
 
 ***
 
