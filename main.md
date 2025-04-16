@@ -1,5 +1,4 @@
 # TODO
-  - movie night planning (movie, snacks, etc)
   - Planning for blankets on tuesday
   - possible creek cleaning on apr 22
 
