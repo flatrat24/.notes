@@ -1,6 +1,7 @@
 # TODO
   - Planning for blankets on tuesday
   - possible creek cleaning on apr 22
+  - comment with x and X nvim
 
 ***
 
