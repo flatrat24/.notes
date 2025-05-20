@@ -1,11 +1,6 @@
-# Monday
-  - ENEE 2022: 2 Homework Problems
-# Tuesday
-  - ENEE 2022: 2 Homework Problems
-# Wednesday
-  - ENEE 2022: 2 Homework Problems
-  - ENEE 2022: Finish Lab Report
-# Thursday
-  - ENEE 2022: 2 Homework Problems
-  - COMP 2631: Project 1, Version 4
-# Friday
+# How can I drop MATH 2080
+
+# How long do my credits remain valid?
+ - At least a year, will not be an issue.
+# Merit scholarships still valid?
+
