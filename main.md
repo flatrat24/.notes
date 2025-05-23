@@ -7,3 +7,9 @@
  - Cache Project
 ## ENGR 3100
  - Final Project
+
+# Things to think of beyond this quarter
+## Job
+ - Consider some local schools
+## Living
+ - Skintight house
