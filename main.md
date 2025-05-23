@@ -13,3 +13,22 @@
  - Consider some local schools
 ## Living
  - Skintight house
+
+# Attendance
+Jackson Reiss L
+Ryan Hall R
+Loren Morris L
+Jessie Vogelmeyer R
+Jeb Cassler L
+Leo Kaplpan single
+Dylan Moore L
+Sam Gurlea single
+Gabriel L
+Andy L
+John O'hara R
+Liam o 
+greg moix L
+Noah R
+
+how to return room key
+room side
