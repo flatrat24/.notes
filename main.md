@@ -11,8 +11,6 @@
 # Things to think of beyond this quarter
 ## Job
  - Consider some local schools
-## Living
- - Skintight house
 
 # Attendance
 Jackson Reiss L
