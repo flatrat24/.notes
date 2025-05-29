@@ -29,6 +29,6 @@ John O'hara R
 Liam o 
 greg moix L
 Noah R
-
-how to return room key
-room side
+Thomas Redwing
+Ryan Hall
+Nate Kretchmer
