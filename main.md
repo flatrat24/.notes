@@ -1,3 +1,7 @@
+Fill in On call availability in excel sheet
+trainig schedule sent on wed
+ridgeline 403 - single
+
 # Writing Ideas
 - The value of longer-term endeavours
 - Reflections on what engaging with creativity creates
