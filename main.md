@@ -1,5 +1,6 @@
 # Writing Ideas
 - The value of longer-term endeavours
+- Reflections on what engaging with creativity creates
 
 # Things to think of beyond this quarter
 ## Job
