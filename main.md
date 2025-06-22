@@ -1,6 +1,15 @@
+# Todo
+## Talk to Dad
+  - Known travelers number
+  - Payment for flight
+## Other
+  - Update USAA address
+  - Apply thermal paste
+  - Fix RC plane
+  - Fix Beeper
+
 # Arsenal
 ## Todo
-
 
 # Music
 ## Brockhampton
@@ -10,12 +19,3 @@
 ## Jethro Tull
   - [Aqualung][https://music.youtube.com/playlist?list=OLAK5uy_mVJaT1iKb8YCqRmlZmMRqJHozln83kbXY]
   - [Thick as a Brick][https://music.youtube.com/playlist?list=OLAK5uy_lfa0R_nw6RAzutpXSjtKam8NNDviysjpc]
-
-# Todo
-## Talk to Dad
-  - Known travelers number
-  - Payment for flight
-## Other
-  - Update USAA address
-  - Apply thermal paste
-  - Fix RC plane
