@@ -17,3 +17,5 @@
   - Payment for flight
 ## Other
   - Update USAA address
+  - Apply thermal paste
+  - Fix RC plane
