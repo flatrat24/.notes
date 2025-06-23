@@ -5,7 +5,7 @@
 ## Other
   - Buy replacement for ambiq 1805
   - Fix RC plane
-  - Purelymain
+  - Purelymail
 
 # Arsenal
 ## Todo
