@@ -3,10 +3,8 @@
   - Known travelers number
   - Payment for flight
 ## Other
-  - Update USAA address
-  - Apply thermal paste
+  - Buy replacement for ambiq 1805
   - Fix RC plane
-  - Fix Beeper
 
 # Arsenal
 ## Todo
