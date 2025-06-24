@@ -9,6 +9,7 @@
 
 # Arsenal
 ## Todo
+  - Try [flight software][https://px4.io/software/getting-started/hello-sky/]
 
 # Music
 ## Brockhampton
