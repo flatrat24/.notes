@@ -26,4 +26,4 @@
   - [Lord Willin'][https://music.youtube.com/playlist?list=OLAK5uy_nziicZNRJrGTXTB16ojV8X7rliesDp130]
 
 
-arugala
+chelsey.bray@du.edu
