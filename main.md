@@ -1,12 +1,3 @@
-# Todo
-## Talk to Dad
-  - Known travelers number
-  - Payment for flight
-## Other
-  - Buy replacement for ambiq 1805
-  - Fix RC plane
-  - Purelymail
-
 # Arsenal
 ## Todo
   - Try [flight software][https://px4.io/software/getting-started/hello-sky/]
