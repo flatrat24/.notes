@@ -15,12 +15,7 @@
   - [Re-Up Gang the Saga Continues][https://music.youtube.com/playlist?list=OLAK5uy_kWGr7o9xcbBaSW8b9bEUVgLmzm6R9hkEA]
   - [Hell Hath No Fury][https://music.youtube.com/playlist?list=OLAK5uy_kd1R_TOggklrbJTlo1VwV3RnfPGuDzhGY]
   - [Lord Willin'][https://music.youtube.com/playlist?list=OLAK5uy_nziicZNRJrGTXTB16ojV8X7rliesDp130]
-
-
-eyeliner
-leap
-{ mode = [ "n" "x" "o" ]; key = "L"; action = "$"; options = { noremap = true; silent = true; desc = "Go to End of Line"; }; }
-{ mode = [ "n" "x" "o" ]; key = "H"; action = "0"; options = { noremap = true; silent = true; desc = "Go to Front of Line"; }; }
-{ mode = [ "n" "x" "o" ]; key = ","; action = ";"; options = { noremap = true; silent = true; desc = "Repeat Find in Line"; }; }
-{ mode = [ "n" "x" "o" ]; key = "<tab>"; action = "%"; options = { noremap = true; silent = true; desc = "Move to Twin Bracket"; }; }
-
+## Joey Purp
+## Quadeca
+## Black Midi
+## Geese
