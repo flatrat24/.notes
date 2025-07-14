@@ -1,4 +1,1 @@
-https://music.youtube.com/playlist?list=OLAK5uy_npIar1qRelWrxy5s7GTumdp7thHxR0hhk
-lil ugly mane - lean got me fucked up
-the cure - treasure
-the cure - bare
+It's been such a pleasure to be your friend this past year. Your radical open-mindedness has helped me explore my feelings and identity. Your creativity has inspired me to be more in touch with my own. Your honesty and empathy have truly encouraged me to present a more genuine image of myself to the world. I feel lucky to have been able to so intimately witness the complete transformation you've undergone in what seems like every aspect of who you are. I hope you never stop changing. I love you, Cady. Happy birthday.
